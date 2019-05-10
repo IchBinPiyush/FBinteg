@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FBinteg</string>
+    <string name="facebook_app_id">2264765680503662</string>
+    <string name="fb_login_protocol_scheme">fb2264765680503662</string>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">qEysUtPo3lm6iFqi98IOZyo2p</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">lGYajfIVW0EWwOjVlIvR2H2iI3LwxXe5FAd7Gs6CXYOe2wJJpd</string>
+</resources>
